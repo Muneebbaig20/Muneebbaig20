@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mirza Muneeb Baig</h1>
 
-- 💬 Expertise in **Algorithm Design**, **Data Structures**, **System Optimization**, and **Development**  
 - Currently pursuing **Bachelor's in Computer Science**  
-
+- 💬 Expertise in **Algorithm Design**, **Data Structures**, **System Optimization**, and **Development**  
+- 📫 Reach me at **mirzamuneeb201103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,5 +59,3 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebbaig20&show_icons=true&locale=en&layout=compact" alt="muneebbaig20" /></p>
-
-- 📫 Reach me at **mirzamuneeb201103@gmail.com**
