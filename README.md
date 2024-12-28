@@ -121,9 +121,7 @@
   </a>
 </p>
 
+### 📫 Get in Touch:
 <p align="left">
-  <a href="mailto:mirzamuneeb201103@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Email_icon_2.svg" alt="email" height="30" width="40" />
-    Email me
-  </a>
+  Reach me at: <a href="mailto:mirzamuneeb201103@gmail.com">mirzamuneeb201103@gmail.com</a>
 </p>
