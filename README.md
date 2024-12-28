@@ -120,4 +120,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@k225095" height="30" width="40" />
   </a>
 </p>
-### 📫 Reach me at **mirzamuneeb201103@gmail.com**
+
+<p align="left">
+  <a href="mailto:mirzamuneeb201103@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Email_icon_2.svg" alt="email" height="30" width="40" />
+    Email me
+  </a>
+</p>
