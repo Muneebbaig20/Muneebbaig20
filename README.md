@@ -100,8 +100,6 @@
 ### My GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebbaig20&show_icons=true&locale=en&layout=compact&theme=dark" alt="muneebbaig20" /></p>
 
-
-
 ---
 
 ### Connect with me:
@@ -121,5 +119,5 @@
   <a href="https://www.hackerrank.com/@k225095" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@k225095" height="30" width="40" />
   </a>
-- 📫 Reach me at **mirzamuneeb201103@gmail.com**
 </p>
+### 📫 Reach me at **mirzamuneeb201103@gmail.com**
