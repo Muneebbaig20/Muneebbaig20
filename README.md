@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mirza Muneeb Baig</h1>
-<h3 align="center">Passionate Programmer | System Optimizer | Cybersecurity Enthusiast | Developer specializing in Efficient Solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneebbaig20" alt="muneebbaig20" /></a> </p>
+
+
 
 - Currently pursuing **Bachelor's in Computer Science**
-- 💬 Expertise in **Algorithm Design**, **Data Structures**, **System Optimization**, and **Cybersecurity**
+- 💬 Expertise in **Algorithm Design**, **Data Structures**, **System Optimization**, and **Development**
 - 📫 Reach me at **mirzamuneeb201103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
