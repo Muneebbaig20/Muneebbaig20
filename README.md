@@ -116,7 +116,7 @@
   <a href="https://instagram.com/muneeb_baig20" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muneeb_baig20" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/k225095" target="blank">
+  <a href="https://www.hackerrank.com/muneeb_baig20" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@k225095" height="30" width="40" />
   </a>
 </p>
