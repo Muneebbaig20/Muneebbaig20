@@ -55,7 +55,7 @@
 
 ### 🧠 AI & Automation
 <ul style="padding-left:18px; margin-top:8px;">
-<li>RPA: UiPath, Automation Anywhere, Blue Prism</li>
+<li>Robotic Process Automation - (RPA)</li>
 <li>GitHub Copilot</li>
 <li>OpenAI</li>
 <li>Cursor</li>
