@@ -10,7 +10,7 @@
 
 <tr>
 
-<td width="280" valign="top" style="padding:20px;">
+<td width="220" valign="top" style="padding:20px;">
 
 ### 💻 Languages
 <ul style="padding-left:18px; margin-top:8px;">
@@ -21,11 +21,12 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> Python</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18"/> HTML</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="18"/> PHP</li>
 </ul>
 
 </td>
 
-<td width="280" valign="top" style="padding:20px;">
+<td width="220" valign="top" style="padding:20px;">
 
 ### ⚙️ Frameworks
 <ul style="padding-left:18px; margin-top:8px;">
@@ -39,13 +40,27 @@
 
 </td>
 
-<td width="280" valign="top" style="padding:20px;">
+<td width="220" valign="top" style="padding:20px;">
 
 ### 🗄 Databases
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="18"/> MySQL</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB</li>
 <li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="18"/> SQL Server</li>
+</ul>
+
+</td>
+
+<td width="220" valign="top" style="padding:20px;">
+
+### 🧠 AI & Automation
+<ul style="padding-left:18px; margin-top:8px;">
+<li>RPA: UiPath, Automation Anywhere, Blue Prism</li>
+<li>GitHub Copilot</li>
+<li>OpenAI</li>
+<li>Cursor</li>
+<li>Grok</li>
+<li>Gemini</li>
 </ul>
 
 </td>
@@ -90,10 +105,13 @@
 
 </td>
 
+<td valign="top" style="padding:20px;">
+<!-- Empty cell to balance row -->
+</td>
+
 </tr>
 
 </table>
-
 
 ### My GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebbaig20&show_icons=true&locale=en&layout=compact&theme=dark" alt="muneebbaig20" /></p>
