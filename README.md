@@ -71,7 +71,7 @@
 
 <td valign="top" style="padding:20px;">
 
-### 🛠 Tools
+### 🛠 Version Controls & Other Tools
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/> Git</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub</li>
