@@ -114,16 +114,10 @@
 
 ---
 
-### Connect with me:
+### Connect with me on Linkedin:
 <p align="left">
   <a href="https://www.linkedin.com/in/mirza-muneeb-baig-42948b2a0" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeb-baig-42948b2a0" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/muneeb_baig20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muneeb_baig20" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/muneeb_baig20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@k225095" height="30" width="40" />
   </a>
 </p>
 
