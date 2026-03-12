@@ -9,7 +9,7 @@
 <table align="center" style="border-collapse: collapse; text-align:left;">
 
 <tr>
-<td width="220" valign="top" style="padding:20px;">
+<td width="260" valign="top" style="padding:20px;">
 
 ### 💻 Languages
 <ul style="padding-left:18px; margin-top:8px;">
@@ -25,7 +25,7 @@
 
 </td>
 
-<td width="220" valign="top" style="padding:20px;">
+<td width="260" valign="top" style="padding:20px;">
 
 ### ⚙️ Frameworks
 <ul style="padding-left:18px; margin-top:8px;">
@@ -39,7 +39,7 @@
 
 </td>
 
-<td width="220" valign="top" style="padding:20px;">
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🗄 Databases
 <ul style="padding-left:18px; margin-top:8px;">
@@ -50,7 +50,7 @@
 
 </td>
 
-<td width="220" valign="top" style="padding:20px;">
+<td width="260" valign="top" style="padding:20px;">
 
 ### ☁️ Backend & APIs
 <ul style="padding-left:18px; margin-top:8px;">
@@ -62,8 +62,10 @@
 </ul>
 
 </td>
+</tr>
 
-<td width="220" valign="top" style="padding:20px;">
+<tr>
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🧠 AI & Automation
 <ul style="padding-left:18px; margin-top:8px;">
@@ -76,10 +78,8 @@
 </ul>
 
 </td>
-</tr>
 
-<tr>
-<td valign="top" style="padding:20px;">
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🛠 Version Control & Other Tools
 <ul style="padding-left:18px; margin-top:8px;">
@@ -91,7 +91,7 @@
 
 </td>
 
-<td valign="top" style="padding:20px;">
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🎨 Design
 <ul style="padding-left:18px; margin-top:8px;">
@@ -102,9 +102,9 @@
 
 </td>
 
-<td valign="top" style="padding:20px;"></td>
-<td valign="top" style="padding:20px;"></td>
-<td valign="top" style="padding:20px;"></td>
+<td width="260" valign="top" style="padding:20px;">
+<!-- Empty cell to complete 4 columns -->
+</td>
 </tr>
 
 </table>
