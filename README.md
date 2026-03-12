@@ -3,59 +3,107 @@
 - Currently pursuing **Bachelor's in Computer Science**  
 - 💬 Expertise in **Algorithm Design**, **Data Structures**, **System Optimization**, and **Development**
 
+
+## 🛠 Tech Stack & Tools
+
 <table align="center">
+
 <tr>
-<td align="center" width="220">
+<td align="center" width="300">
 
 ### 💻 Languages
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20"/> C#  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20"/> C  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20"/> C++  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS  
+
 </p>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="300">
 
 ### ⚙️ Frameworks
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="20"/> .NET  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="20"/> ASP.NET Core  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="20"/> Entity Framework Core  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="20"/> LINQ  
+
 </p>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="300">
 
 ### 🗄 Databases
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
+<br>
+
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20"/> SQL Server  
+
 </p>
 
 </td>
 </tr>
 
 <tr>
+
 <td align="center">
 
 ### 🛠 Tools
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> Git  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> GitHub  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> GitHub Actions  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20"/> Ubuntu / Linux  
+
 </p>
 
 </td>
@@ -64,13 +112,22 @@
 
 ### ☁️ Backend & APIs
 
-<p>
-ASP.NET Core <br>
-Web API <br>
-Entity Framework <br>
-LINQ <br>
-API Integration <br>
-CI/CD
+<p align="left">
+
+🔹 ASP.NET Core Web API  
+<br>
+
+🔹 API Integration  
+<br>
+
+🔹 CI/CD  
+<br>
+
+🔹 Razor Pages  
+<br>
+
+🔹 MVC Architecture  
+
 </p>
 
 </td>
@@ -79,13 +136,20 @@ CI/CD
 
 ### 🎨 Design
 
-<p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+<p align="left">
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20"/> Figma  
+<br>
+
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="20"/> Adobe Illustrator  
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="20"/> Photoshop  
+
 </p>
 
 </td>
+
 </tr>
 
 </table>
