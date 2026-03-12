@@ -51,6 +51,19 @@
 
 </td>
 
+<td valign="top" style="padding:20px;">
+
+### ☁️ Backend & APIs
+<ul style="padding-left:18px; margin-top:8px;">
+<li>ASP.NET Core Web API</li>
+<li>API Integration</li>
+<li>CI/CD</li>
+<li>Razor</li>
+<li>MVC Architecture</li>
+</ul>
+
+</td>
+
 <td width="220" valign="top" style="padding:20px;">
 
 ### 🧠 AI & Automation
@@ -71,7 +84,7 @@
 
 <td valign="top" style="padding:20px;">
 
-### 🛠 Version Controls & Other Tools
+### 🛠 Version Control & Other Tools
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/> Git</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub</li>
@@ -81,18 +94,6 @@
 
 </td>
 
-<td valign="top" style="padding:20px;">
-
-### ☁️ Backend & APIs
-<ul style="padding-left:18px; margin-top:8px;">
-<li>ASP.NET Core Web API</li>
-<li>API Integration</li>
-<li>CI/CD</li>
-<li>Razor</li>
-<li>MVC Architecture</li>
-</ul>
-
-</td>
 
 <td valign="top" style="padding:20px;">
 
