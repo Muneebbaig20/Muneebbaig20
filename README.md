@@ -9,144 +9,88 @@
 <table align="center">
 
 <tr>
-<td align="center" width="300">
+<td width="260">
 
 ### 💻 Languages
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20"/> C#  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="20"/> C  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="20"/> C++  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Python  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> HTML  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> CSS  
-
-</p>
+<ul>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18"/> JavaScript</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="18"/> C#</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18"/> C</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> C++</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> Python</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18"/> HTML</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS</li>
+</ul>
 
 </td>
 
-<td align="center" width="300">
+<td width="260">
 
 ### ⚙️ Frameworks
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> React.js  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="20"/> .NET  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="20"/> ASP.NET Core  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="20"/> Entity Framework Core  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="20"/> LINQ  
-
-</p>
+<ul>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18"/> React.js</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="18"/> Bootstrap</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="18"/> .NET</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> ASP.NET Core</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> Entity Framework</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> LINQ</li>
+</ul>
 
 </td>
 
-<td align="center" width="300">
+<td width="260">
 
 ### 🗄 Databases
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> MySQL  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> MongoDB  
-<br>
-
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="20"/> SQL Server  
-
-</p>
+<ul>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="18"/> MySQL</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB</li>
+<li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="18"/> SQL Server</li>
+</ul>
 
 </td>
 </tr>
 
 <tr>
 
-<td align="center">
+<td>
 
 ### 🛠 Tools
 
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> Git  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> GitHub  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> GitHub Actions  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="20"/> Ubuntu / Linux  
-
-</p>
+<ul>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/> Git</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub Actions</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="18"/> Ubuntu / Linux</li>
+</ul>
 
 </td>
 
-<td align="center">
+<td>
 
 ### ☁️ Backend & APIs
 
-<p align="left">
-
-🔹 ASP.NET Core Web API  
-<br>
-
-🔹 API Integration  
-<br>
-
-🔹 CI/CD  
-<br>
-
-🔹 Razor Pages  
-<br>
-
-🔹 MVC Architecture  
-
-</p>
+<ul>
+<li>ASP.NET Core Web API</li>
+<li>API Integration</li>
+<li>CI/CD</li>
+<li>Razor</li>
+<li>MVC Architecture</li>
+</ul>
 
 </td>
 
-<td align="center">
+<td>
 
 ### 🎨 Design
 
-<p align="left">
-
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20"/> Figma  
-<br>
-
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="20"/> Adobe Illustrator  
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="20"/> Photoshop  
-
-</p>
+<ul>
+<li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="18"/> Figma</li>
+<li><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="18"/> Adobe Illustrator</li>
+<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="18"/> Photoshop</li>
+</ul>
 
 </td>
 
