@@ -9,7 +9,6 @@
 <table align="center" style="border-collapse: collapse; text-align:left;">
 
 <tr>
-
 <td width="220" valign="top" style="padding:20px;">
 
 ### 💻 Languages
@@ -51,7 +50,7 @@
 
 </td>
 
-<td valign="top" style="padding:20px;">
+<td width="220" valign="top" style="padding:20px;">
 
 ### ☁️ Backend & APIs
 <ul style="padding-left:18px; margin-top:8px;">
@@ -68,7 +67,7 @@
 
 ### 🧠 AI & Automation
 <ul style="padding-left:18px; margin-top:8px;">
-<li>Robotic Process Automation - (RPA)</li>
+<li>Robotic Process Automation (RPA)</li>
 <li>GitHub Copilot</li>
 <li>OpenAI</li>
 <li>Cursor</li>
@@ -77,11 +76,9 @@
 </ul>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td valign="top" style="padding:20px;">
 
 ### 🛠 Version Control & Other Tools
@@ -94,7 +91,6 @@
 
 </td>
 
-
 <td valign="top" style="padding:20px;">
 
 ### 🎨 Design
@@ -106,10 +102,9 @@
 
 </td>
 
-<td valign="top" style="padding:20px;">
-<!-- Empty cell to balance row -->
-</td>
-
+<td valign="top" style="padding:20px;"></td>
+<td valign="top" style="padding:20px;"></td>
+<td valign="top" style="padding:20px;"></td>
 </tr>
 
 </table>
