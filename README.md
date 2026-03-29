@@ -110,8 +110,7 @@
 </table>
 
 ### My GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebbaig20&show_icons=true&locale=en&layout=compact&theme=dark" alt="muneebbaig20" /></p>
-
+![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebbaig20&show_icons=true&theme=dark)
 ---
 
 ### Connect with me on Linkedin:
