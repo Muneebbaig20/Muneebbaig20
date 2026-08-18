@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirza Muneeb Baig</h1>
 
 - Currently pursuing **Bachelor's in Computer Science**  
-- 💬 Expertise in **Algorithm Design**, **Data Structures**, **System Optimization**, and **Development**
+- 💬 Expertise in **Algorithm Design**, **Data Structures**, **Automation**, and **Development**
 
 
 ## 🛠 Tech Stack & Tools
