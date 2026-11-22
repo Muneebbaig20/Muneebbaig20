@@ -20,7 +20,6 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> Python</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18"/> HTML</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="18"/> PHP</li>
 </ul>
 
 </td>
