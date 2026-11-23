@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mirza Muneeb Baig</h1>
 
 - Currently pursuing **Bachelor's in Computer Science**  
@@ -7,9 +6,10 @@
 
 ## 🛠 Tech Stack & Tools
 
-<div align="center">
+<table align="center" style="border-collapse: collapse; text-align:left;">
 
-<div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
+<tr>
+<td width="260" valign="top" style="padding:20px;">
 
 ### 💻 Languages
 <ul style="padding-left:18px; margin-top:8px;">
@@ -22,7 +22,9 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS</li>
 </ul>
 
-</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
+</td>
+
+<td width="260" valign="top" style="padding:20px;">
 
 ### ⚙️ Frameworks
 <ul style="padding-left:18px; margin-top:8px;">
@@ -34,7 +36,9 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> LINQ</li>
 </ul>
 
-</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
+</td>
+
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🗄 Databases
 <ul style="padding-left:18px; margin-top:8px;">
@@ -43,7 +47,9 @@
 <li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="18"/> SQL Server</li>
 </ul>
 
-</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
+</td>
+
+<td width="260" valign="top" style="padding:20px;">
 
 ### ☁️ Backend & APIs
 <ul style="padding-left:18px; margin-top:8px;">
@@ -54,7 +60,11 @@
 <li>MVC Architecture</li>
 </ul>
 
-</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
+</td>
+</tr>
+
+<tr>
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🧠 AI & Automation
 <ul style="padding-left:18px; margin-top:8px;">
@@ -66,7 +76,9 @@
 <li>Gemini</li>
 </ul>
 
-</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
+</td>
+
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🛠 Version Control & Other Tools
 <ul style="padding-left:18px; margin-top:8px;">
@@ -76,16 +88,23 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="18"/> Ubuntu / Linux</li>
 </ul>
 
-</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
+</td>
+
+<td width="260" valign="top" style="padding:20px;">
 
 ### 🎨 Design
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="18"/> Figma</li>
 </ul>
 
-</div>
+</td>
 
-</div>
+<td width="260" valign="top" style="padding:20px;">
+<!-- Empty cell to complete 4 columns -->
+</td>
+</tr>
+
+</table>
 
 ### My GitHub Stats:
 ![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebbaig20&show_icons=true&theme=dark)
@@ -102,3 +121,6 @@
 <p align="left">
   Reach me at: <a href="mailto:mirzamuneeb201103@gmail.com">mirzamuneeb201103@gmail.com</a>
 </p>
+
+
+make it responsive in small screens and in all screens
