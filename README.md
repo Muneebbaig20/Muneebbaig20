@@ -1,125 +1,164 @@
 <h1 align="center">Hi 👋, I'm Mirza Muneeb Baig</h1>
 
-- Currently pursuing **Bachelor's in Computer Science**  
-- 💬 Expertise in **Algorithm Design**, **Data Structures**, **Automation**, and **Development**
+<p align="center">
+  Software Engineer | .NET Developer | C# | ASP.NET | SQL Server
+</p>
 
+<p align="center">
+  <b>Building reliable and maintainable backend systems.</b>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Engineer focused on **backend development and enterprise systems**
+- ⚙️ Experienced with **.NET, C#, ASP.NET, Web APIs, MVC, and SQL Server**
+- 🤖 Interested in **automation, RPA, and AI-assisted development**
+- 🧠 Strong foundation in **Data Structures, Algorithms, and Software Development**
+
+---
 
 ## 🛠 Tech Stack & Tools
 
-<table align="center" style="border-collapse: collapse; text-align:left;">
-
+<table>
 <tr>
-<td width="260" valign="top" style="padding:20px;">
+<td valign="top" width="50%">
 
 ### 💻 Languages
-<ul style="padding-left:18px; margin-top:8px;">
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18"/> JavaScript</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="18"/> C#</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18"/> C</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> C++</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> Python</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18"/> HTML</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS</li>
-</ul>
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="18"/> C#
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18"/> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> Python
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="18"/> C
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="18"/> C++
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="18"/> HTML
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS
 
 </td>
 
-<td width="260" valign="top" style="padding:20px;">
+<td valign="top" width="50%">
 
-### ⚙️ Frameworks
-<ul style="padding-left:18px; margin-top:8px;">
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18"/> React.js</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="18"/> Bootstrap</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="18"/> .NET</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> ASP.NET Core</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> Entity Framework</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> LINQ</li>
-</ul>
+### ⚙️ Frameworks & Libraries
 
-</td>
-
-<td width="260" valign="top" style="padding:20px;">
-
-### 🗄 Databases
-<ul style="padding-left:18px; margin-top:8px;">
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="18"/> MySQL</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB</li>
-<li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="18"/> SQL Server</li>
-</ul>
-
-</td>
-
-<td width="260" valign="top" style="padding:20px;">
-
-### ☁️ Backend & APIs
-<ul style="padding-left:18px; margin-top:8px;">
-<li>ASP.NET Core Web API</li>
-<li>API Integration</li>
-<li>CI/CD</li>
-<li>Razor</li>
-<li>MVC Architecture</li>
-</ul>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="18"/> .NET
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> ASP.NET Core
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18"/> React.js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="18"/> Bootstrap
+- Entity Framework
+- LINQ
 
 </td>
 </tr>
 
 <tr>
-<td width="260" valign="top" style="padding:20px;">
+<td valign="top" width="50%">
 
-### 🧠 AI & Automation
-<ul style="padding-left:18px; margin-top:8px;">
-<li>Robotic Process Automation (RPA)</li>
-<li>GitHub Copilot</li>
-<li>OpenAI</li>
-<li>Cursor</li>
-<li>Grok</li>
-<li>Gemini</li>
-</ul>
+### 🗄️ Databases
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="18"/> MySQL
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB
+- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="18"/> SQL Server
 
 </td>
 
-<td width="260" valign="top" style="padding:20px;">
+<td valign="top" width="50%">
 
-### 🛠 Version Control & Other Tools
-<ul style="padding-left:18px; margin-top:8px;">
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/> Git</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub Actions</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="18"/> Ubuntu / Linux</li>
-</ul>
+### 🌐 Backend & APIs
 
-</td>
+- ASP.NET Core Web API
+- API Integration
+- MVC Architecture
+- Razor
+- REST APIs
+- CI/CD
 
-<td width="260" valign="top" style="padding:20px;">
-
-### 🎨 Design
-<ul style="padding-left:18px; margin-top:8px;">
-<li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="18"/> Figma</li>
-<li><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="18"/> Adobe Illustrator</li>
-<li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="18"/> Photoshop</li>
-</ul>
-
-</td>
-
-<td width="260" valign="top" style="padding:20px;">
-<!-- Empty cell to complete 4 columns -->
 </td>
 </tr>
 
+<tr>
+<td valign="top" width="50%">
+
+### 🤖 AI & Automation
+
+- Robotic Process Automation (RPA)
+- GitHub Copilot
+- OpenAI
+- Cursor
+- Gemini
+- Grok
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🛠️ Tools & Version Control
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/> Git
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub Actions
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="18"/> Ubuntu / Linux
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+### 🎨 Design
+
+- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="18"/> Figma
+
+</td>
+
+<td valign="top" width="50%">
+
+### 📚 Concepts
+
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Software Architecture
+- Automation
+
+</td>
+</tr>
 </table>
 
-### My GitHub Stats:
-![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebbaig20&show_icons=true&theme=dark)
 ---
 
-### Connect with me on Linkedin:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mirza-muneeb-baig-42948b2a0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeb-baig-42948b2a0" height="30" width="40" />
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muneebbaig20&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    alt="Muneeb's GitHub Stats"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mirza-muneeb-baig-42948b2a0">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
-### 📫 Get in Touch:
-<p align="left">
-  Reach me at: <a href="mailto:mirzamuneeb201103@gmail.com">mirzamuneeb201103@gmail.com</a>
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  Reach me at:
+  <a href="mailto:mirzamuneeb201103@gmail.com">
+    mirzamuneeb201103@gmail.com
+  </a>
 </p>
