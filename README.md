@@ -1,11 +1,17 @@
-🛠 Tech Stack & Tools
+
+<h1 align="center">Hi 👋, I'm Mirza Muneeb Baig</h1>
+
+- Currently pursuing **Bachelor's in Computer Science**  
+- 💬 Expertise in **Algorithm Design**, **Data Structures**, **Automation**, and **Development**
+
+
+## 🛠 Tech Stack & Tools
 
 <div align="center">
 
 <div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
 
-💻 Languages
-
+### 💻 Languages
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18"/> JavaScript</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="18"/> C#</li>
@@ -16,12 +22,9 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="18"/> CSS</li>
 </ul>
 
-</div>
+</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
 
-<div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
-
-⚙️ Frameworks
-
+### ⚙️ Frameworks
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18"/> React.js</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="18"/> Bootstrap</li>
@@ -31,24 +34,18 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="18"/> LINQ</li>
 </ul>
 
-</div>
+</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
 
-<div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
-
-🗄 Databases
-
+### 🗄 Databases
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="18"/> MySQL</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB</li>
 <li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="18"/> SQL Server</li>
 </ul>
 
-</div>
+</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
 
-<div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
-
-☁️ Backend & APIs
-
+### ☁️ Backend & APIs
 <ul style="padding-left:18px; margin-top:8px;">
 <li>ASP.NET Core Web API</li>
 <li>API Integration</li>
@@ -57,12 +54,9 @@
 <li>MVC Architecture</li>
 </ul>
 
-</div>
+</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
 
-<div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
-
-🧠 AI & Automation
-
+### 🧠 AI & Automation
 <ul style="padding-left:18px; margin-top:8px;">
 <li>Robotic Process Automation (RPA)</li>
 <li>GitHub Copilot</li>
@@ -72,12 +66,9 @@
 <li>Gemini</li>
 </ul>
 
-</div>
+</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
 
-<div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
-
-🛠 Version Control & Other Tools
-
+### 🛠 Version Control & Other Tools
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/> Git</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="18"/> GitHub</li>
@@ -85,12 +76,9 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="18"/> Ubuntu / Linux</li>
 </ul>
 
-</div>
+</div><div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
 
-<div style="display:inline-block; vertical-align:top; width:24%; min-width:220px; text-align:left;">
-
-🎨 Design
-
+### 🎨 Design
 <ul style="padding-left:18px; margin-top:8px;">
 <li><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="18"/> Figma</li>
 </ul>
@@ -98,3 +86,19 @@
 </div>
 
 </div>
+
+### My GitHub Stats:
+![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=muneebbaig20&show_icons=true&theme=dark)
+---
+
+### Connect with me on Linkedin:
+<p align="left">
+  <a href="https://www.linkedin.com/in/mirza-muneeb-baig-42948b2a0" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeb-baig-42948b2a0" height="30" width="40" />
+  </a>
+</p>
+
+### 📫 Get in Touch:
+<p align="left">
+  Reach me at: <a href="mailto:mirzamuneeb201103@gmail.com">mirzamuneeb201103@gmail.com</a>
+</p>
